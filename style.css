@@ -146,7 +146,7 @@ left: 370px;
 /*android*/
 @media (min-width: 0px) and (max-width: 367px){
     .middle a{
-        padding: 10px 25px;
+        padding: 10px;
     }
     .bottom{
         height: 188px;
